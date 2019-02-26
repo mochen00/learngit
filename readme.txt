@@ -1,2 +1,1 @@
-本仓库主要存储rocket项目的idl和常量定义等静态的数据
-idl：接口定义
+Git is a distributed version control system.
